@@ -77,6 +77,8 @@ Following software are required to be installed:
   - **VS Code editor**
     - **Arduino extension**
     - **Espressif extension**
+  - **Insomnia**
+  - **Python Jupyter Notebook**
 
 ---
 
