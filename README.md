@@ -35,7 +35,7 @@ Following software are required to be installed:
 
   <center>Figure 1: Virtual Box VM Greeting Screen</center>
 
-- Download the Virtual Box Image (of size *~8 GB*) file named **`e-Yantra-IoT-Ubuntu20.ova`** from this [link]().
+- Download the Virtual Box Image (of size *~8 GB*) file named **`e-Yantra-IoT-Ubuntu20.ova`** from this [link](https://drive.google.com/file/d/1S22zLiiUgQFrd_h7EdnWI2__faaD8CX-/view?usp=sharing).
 
 - Click on this icon ![import_icon_vbox](https://raw.githubusercontent.com/kalindkaria/typora-md-assets/master/functional_weeder/assets/task_0/vbox_sw/import_icon_vbox.png) in the window shown in Figure 1 and import the **`e-Yantra-IoT-Ubuntu20.ova`** file in Virtual Box software.
 
