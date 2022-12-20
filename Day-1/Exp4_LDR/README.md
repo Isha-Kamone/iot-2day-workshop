@@ -1,8 +1,8 @@
-# Exp 1: ADC Interfacing
+# Exp 4: ADC Interfacing
 
 ### Aim
 
-To print the values of ADC in Serial Monitor
+Print the values of LDR on Serial Monitor
 
 ---
 
