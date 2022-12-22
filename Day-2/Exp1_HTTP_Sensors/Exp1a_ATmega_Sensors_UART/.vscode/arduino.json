@@ -1,0 +1,6 @@
+{
+    "configuration": "eYFi-OTA=disabled,cpu=atmega2560",
+    "board": "eYFi-Mega-ATmega2560-Section:avr:eyfi_atmega2560",
+    "port": "/dev/ttyUSB0",
+    "sketch": "Exp1a_ATmega_UART_Sensors.ino"
+}
